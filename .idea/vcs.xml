@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/JavaAssignment" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JavaExercise2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JavaExercise3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KeepNote2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KeepNote2/KeepNote-Step2-Boilerplate" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/OOPSAssignment" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SpringAnnotation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SpringExc2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SpringExercise1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SpringMVCExercise3Annotaions" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SpringMVCExercise3Annotaions/KeepNoteStep1-annotation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SpringTask" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/proj_1" vcs="Git" />
+  </component>
+</project>
